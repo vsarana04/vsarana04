@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student at Campus 19
 
 * 🌍  I'm based in Antwerp, Belgium
-* ✉️  You can contact me at [vlad.sarana04@gmail.com](mailto:vlad.sarana04@gmail.com)
 * 🚀  I'm currently working on [the common core projects at Campus 19](http://github.com/vsarana04/42_projects)
 * 🧠  I'm learning C++ to expand my programming skills
 
